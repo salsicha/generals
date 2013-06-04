@@ -1,0 +1,6 @@
+// HIER CHECK, WIE DIE ROTATION AUF DEN LOCAL ANGEWENDET WERDEN KANN!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+// Außerdem einen Turret Mode Enum. AimTarget, Autocenter, Off
+// Target Kategorien, damit Tank nicht auf Flugzeug schießen kann. Tank = Cat 1, PKW = 2, Solider 3, Flugzeug 4 usw.
+// Verschiedene Distance Typen: Anfahren = radius X, Target Mode = radius Y usw.
+// Rückschlag Force beim Schießen
+//print("requiredYaw: " + requiredYaw + " turret.y: " + turret.transform.localEulerAngles.y);
